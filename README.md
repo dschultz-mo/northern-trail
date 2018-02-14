@@ -6,6 +6,6 @@ This adaptation is used as a sample application for a **Salesforce Platform Even
 
 ## Installation Instructions
 
-Follow the lab exercise workbook at <TBD> to install this app, modify the code to define, publish and subscribe to platform events.
+Follow the lab exercise workbook at https://salesforce.quip.com/RFAsAqBxxbLI to install this app, modify the code to define, publish and subscribe to platform events.
     
 There is a companion app, **Northern Trail Manufacturing**, deployed on [Heroku](https://dws-nto-manufacturing.herokuapp.com/) that works alongside this app, communicating using Salesforce Platform Events.  The lab exercise workbook includes instructions on how to use the Manufacturing app.
